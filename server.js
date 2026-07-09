@@ -6,7 +6,7 @@ const axios = require('axios');
 // CONFIGURATION
 // ============================================================
 
-const BOT_TOKEN = '8752553053:AAGUkIv2qDzFJwZVrcQTT0Zox8fMxHJ6XEQ';
+const BOT_TOKEN = '8752553053:AAHQpj4IZJIxZK1n3n3LsJPSjAQ_pRCjG9Q';
 const PORT = process.env.PORT || 3000;
 const API_URL = 'https://huiyi67-sms-bomber.hf.space/api';
 
